@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**amelieboydshire/amelieboydshire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 During my Biology BSc, I developed an appreciation for the power of coding and its potential to revolutionise scientific research. <br><br>Since graduating, I have continued to explore its wider uses, with a particular interest in ethical applications of AI. Driven by my enthusiasm for continuous learning, I embarked on an intensive 13 week full-stack software engineering bootcamp with Bright Network Technology Academy. <br><br>This has enabled me to develop my proficiency in the integral programming languages, as well as <br>to hone my soft skills. I am excited to combine my scientific background with my <br>acquired programming skills to drive innovation and create impactful software. 
 

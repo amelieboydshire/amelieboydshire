@@ -12,7 +12,5 @@ During my Biology BSc, I developed an appreciation for the power of coding and i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amelieboydshire&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amelieboydshire&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=amelieboydshire&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
